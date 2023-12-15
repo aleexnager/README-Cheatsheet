@@ -348,7 +348,8 @@ Underscores
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ/0.jpg" 
+alt="https://www.youtube.com/watch?v=dQw4w9WgXcQ" width="240" height="180" border="10" /></a>
 
 ## Highlight
 >[!NOTE]\
