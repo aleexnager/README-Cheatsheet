@@ -342,6 +342,22 @@ Underscores
 
 
 ## Line Breaks
+```
+Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+```
+Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+
+
 
 ## YouTube Videos
 ```
@@ -351,7 +367,25 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" 
 alt="IMAGE" width="240" height="240" border="10" /></a>
 
+
+
 ## Highlight
+```
+>[!NOTE]\
+>Note: Useful information that users should know, even when skimming content.
+
+>[!TIP]\
+>Tip: Helpful advice for doing things better or more easily.
+
+>[!IMPORTANT]\
+>Important: Key information users need to know to achieve their goal.
+
+>[!WARNING]\
+>Warning: Urgent info that needs immediate user attention to avoid problems.
+
+>[!CAUTION]\
+>Caution: Advises about risks or negative outcomes of certain actions.
+```
 >[!NOTE]\
 >Note: Useful information that users should know, even when skimming content.
 
