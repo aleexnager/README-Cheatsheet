@@ -349,7 +349,7 @@ Underscores
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" 
-alt="IMAGE" width="240" height="180" border="10" /></a>
+alt="IMAGE" width="240" height="240" border="10" /></a>
 
 ## Highlight
 >[!NOTE]\
