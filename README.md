@@ -348,8 +348,8 @@ Underscores
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ/0.jpg" 
-alt="https://www.youtube.com/watch?v=dQw4w9WgXcQ" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nintendo.es%2FJuegos%2FProgramas-descargables-Nintendo-Switch%2FYouTube-1467860.html&psig=AOvVaw1Mm_Ftbep7txqxlXcDOKpW&ust=1702764383337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCzi-W5koMDFQAAAAAdAAAAABAZ" 
+alt="IMAGE" width="240" height="180" border="10" /></a>
 
 ## Highlight
 >[!NOTE]\
