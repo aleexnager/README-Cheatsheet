@@ -48,7 +48,7 @@ Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-Combined emphasis with ___asterisks___ and _underscore_**.
+Combined emphasis with ***asterisks* and _underscore_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
