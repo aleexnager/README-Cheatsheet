@@ -16,7 +16,6 @@ Alt-H1
 Alt-H2
 ------
 ```
-
 # H1
 ## H2
 ### H3
@@ -31,6 +30,28 @@ Alt-H1
 
 Alt-H2
 ------
+
+
+
+```
+Emphasis
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+```
+Emphasis
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with ___asterisks___ and _underscore_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
 
 >[!NOTE]\
 >Note: Useful information that users should know, even when skimming content.
